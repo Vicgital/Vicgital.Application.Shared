@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/.deployment/">
+    <File Path=".github/workflows/publish_package.yml" />
+    <File Path="CLAUDE.md" />
+    <File Path="nuget.config" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Vicgital.Application.Shared/Vicgital.Application.Shared.csproj" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>

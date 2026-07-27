@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net10.0</TargetFramework>
+	  <AssemblyName>Vicgital.Application.Shared</AssemblyName>
+	  <PackageId>Vicgital.Application.Shared</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Vicgital</Authors>
+	  <RepositoryUrl>https://github.com/vicgital/Vicgital.Application.Shared</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <PackageDescription>Core application contracts, standard exceptions, and cross-cutting abstractions used across all Vicgital .NET services</PackageDescription>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
